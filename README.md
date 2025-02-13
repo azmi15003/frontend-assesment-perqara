@@ -1,5 +1,23 @@
-# Vue 3 + Vite
+## Getting started
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+# install dependency
+npm install
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+# develop
+npm run dev
+
+# branch
+master
+```
+
+This will automatically open http://localhost:517
+
+## Build
+
+```bash
+# build for test environment
+npm run build:stage
+
+# build for production environment
+npm run build:prod
+```
