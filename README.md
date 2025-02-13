@@ -5,9 +5,6 @@ npm install
 
 # develop
 npm run dev
-
-# branch
-master
 ```
 
 This will automatically open http://localhost:517
